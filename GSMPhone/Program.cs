@@ -82,7 +82,7 @@ namespace GSMPhone
                     totalTime += call.CallDuration;
                     
                 }
-                Console.WriteLine("\t\t\tTotal Time in Seconds: {0} - money: {1}", totalTime.TotalSeconds.ToString(), (int)totalTime.TotalSeconds * 1M);
+                Console.WriteLine("\t\t\tTotal Time in Seconds: {0} - money: {1}", totalTime.TotalSeconds.ToString(), (int)totalTime.TotalSeconds * 1.0M);
             }
 
             
