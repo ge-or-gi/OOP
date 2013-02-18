@@ -1,0 +1,6 @@
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\GSMPhone\bin\Debug\GSMPhone.exe.config
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\GSMPhone\bin\Debug\GSMPhone.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\GSMPhone\bin\Debug\GSMPhone.pdb
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\GSMPhone\obj\Debug\GSMPhone.csprojResolveAssemblyReference.cache
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\GSMPhone\obj\Debug\GSMPhone.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\GSMPhone\obj\Debug\GSMPhone.pdb

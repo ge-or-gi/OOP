@@ -1,0 +1,6 @@
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\StudentsClass\bin\Debug\StudentsClass.exe.config
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\StudentsClass\obj\Debug\StudentsClass.csprojResolveAssemblyReference.cache
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\StudentsClass\bin\Debug\StudentsClass.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\StudentsClass\bin\Debug\StudentsClass.pdb
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\StudentsClass\obj\Debug\StudentsClass.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\StudentsClass\obj\Debug\StudentsClass.pdb
