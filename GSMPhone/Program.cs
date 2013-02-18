@@ -20,9 +20,9 @@ namespace GSMPhone
             GSMDisplay Pixels800X600 = new GSMDisplay(800, 600, 256);
             GSMDisplay Pixles600X400 = new GSMDisplay(600, 400, 16000);
 
-            GSMCall clal1 = new GSMCall("0:22:11", 088888888);
-            GSMCall clal2 = new GSMCall("0:06:01", 088877777);
-            GSMCall clal3 = new GSMCall("0:01:34", 088866666);
+            GSMCall clal1 = new GSMCall("03.03.2003", "0:22:11", 088888888);
+            GSMCall clal2 = new GSMCall("05.05.2005", "0:06:01", 088877777);
+            GSMCall clal3 = new GSMCall("08.08.2008", "0:01:34", 088866666);
 
             GSM myFirstGsm = new GSM();
             myFirstGsm.Model = "Xperia";
@@ -60,7 +60,7 @@ namespace GSMPhone
 
 
 
-            myFirstGsm.CallHistory.Add(new GSMCall("0:00:30", 0878714));
+            myFirstGsm.CallHistory.Add(new GSMCall("11.11.2011","0:00:30", 0878714));
             
             mySecondGsm.CallHistory.Add(clal3);
             mySecondGsm.CallHistory.Add(clal2);
@@ -73,16 +73,18 @@ namespace GSMPhone
             foreach (var item in Products)
             {
                 Console.WriteLine(item.printInfo());
-
+                
                 TimeSpan totalTime = TimeSpan.Zero;
-                int money = 0;
+
                 foreach (var call in item.CallHistory)
                 {
-                    Console.WriteLine("\t\t\tPhoneCall: {0}", call.CallDuration.ToString());
+                    Console.WriteLine("\tCall to: {0} Duration: {1} on Date: {2}",call.PhoneNumber.ToString(), call.CallDuration.ToString(), call.StartTime.ToLongDateString());
                     totalTime += call.CallDuration;
                     
                 }
                 Console.WriteLine("\t\t\tTotal Time in Seconds: {0} - money: {1}", totalTime.TotalSeconds.ToString(), (int)totalTime.TotalSeconds * 1.0M);
+                Console.WriteLine();
+
             }
 
             

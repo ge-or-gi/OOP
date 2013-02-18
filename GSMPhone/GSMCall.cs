@@ -11,10 +11,12 @@ namespace GSMPhone
 
         private TimeSpan _callDuration;
         private int _phoneNumber;
+        private DateTime _startTime;
 
-        
-        public GSMCall(string callDuration, int phoneNumber)
+                
+        public GSMCall(string startTime, string callDuration, int phoneNumber)
         {
+            this._startTime = DateTime.Parse(startTime);
             this._callDuration = TimeSpan.Parse(callDuration);
             this._phoneNumber = phoneNumber;
         }
@@ -32,7 +34,11 @@ namespace GSMPhone
             set { _callDuration = value; }
         }
 
-
+        public DateTime StartTime
+        {
+            get { return _startTime; }
+            set { _startTime = value; }
+        }
 
 
     }
