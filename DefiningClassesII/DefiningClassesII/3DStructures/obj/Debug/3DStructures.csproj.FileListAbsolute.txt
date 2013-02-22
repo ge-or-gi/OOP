@@ -1,0 +1,6 @@
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\DefiningClassesII\DefiningClassesII\3DStructures\bin\Debug\3DStructures.exe.config
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\DefiningClassesII\DefiningClassesII\3DStructures\obj\Debug\3DStructures.csprojResolveAssemblyReference.cache
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\DefiningClassesII\DefiningClassesII\3DStructures\bin\Debug\3DStructures.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\DefiningClassesII\DefiningClassesII\3DStructures\bin\Debug\3DStructures.pdb
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\DefiningClassesII\DefiningClassesII\3DStructures\obj\Debug\3DStructures.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\DefiningClassesII\DefiningClassesII\3DStructures\obj\Debug\3DStructures.pdb
