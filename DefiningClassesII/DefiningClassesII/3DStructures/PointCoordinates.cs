@@ -17,6 +17,14 @@ public struct Point
         this.PointZ = PointZ;
     }
 
+    public Point(string LineFromFile) :this()  //приема стринг за вход и го представя като ИНТ за създаване на точка
+    {
+        string[] arr = LineFromFile.Split(',');
+        this.PointX = int.Parse(arr[0]);   
+        this.PointY = int.Parse(arr[1]);   
+        this.PointZ = int.Parse(arr[2]);
+    }
+
 
     private static readonly Point _zeroPoint = new Point(0, 0, 0); // създава нулева точка, поле което не може да се променя
 
