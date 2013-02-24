@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DStructures", "3DStructures\3DStructures.csproj", "{9BC41C3F-7743-4074-B38C-6D9C2F71FD4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{9EB6DB60-EF42-44FD-95CF-14967CC1FF7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{9BC41C3F-7743-4074-B38C-6D9C2F71FD4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BC41C3F-7743-4074-B38C-6D9C2F71FD4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BC41C3F-7743-4074-B38C-6D9C2F71FD4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EB6DB60-EF42-44FD-95CF-14967CC1FF7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB6DB60-EF42-44FD-95CF-14967CC1FF7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB6DB60-EF42-44FD-95CF-14967CC1FF7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB6DB60-EF42-44FD-95CF-14967CC1FF7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

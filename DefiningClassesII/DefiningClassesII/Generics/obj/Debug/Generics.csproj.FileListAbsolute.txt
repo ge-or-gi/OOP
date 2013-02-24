@@ -1,0 +1,6 @@
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\DefiningClassesII\DefiningClassesII\Generics\bin\Debug\Generics.exe.config
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\DefiningClassesII\DefiningClassesII\Generics\bin\Debug\Generics.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\DefiningClassesII\DefiningClassesII\Generics\bin\Debug\Generics.pdb
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\DefiningClassesII\DefiningClassesII\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\DefiningClassesII\DefiningClassesII\Generics\obj\Debug\Generics.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\DefiningClassesII\DefiningClassesII\Generics\obj\Debug\Generics.pdb
