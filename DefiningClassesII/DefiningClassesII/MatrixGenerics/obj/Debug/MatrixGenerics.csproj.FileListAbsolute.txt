@@ -1,0 +1,6 @@
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\DefiningClassesII\DefiningClassesII\MatrixGenerics\bin\Debug\MatrixGenerics.exe.config
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\DefiningClassesII\DefiningClassesII\MatrixGenerics\bin\Debug\MatrixGenerics.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\DefiningClassesII\DefiningClassesII\MatrixGenerics\bin\Debug\MatrixGenerics.pdb
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\DefiningClassesII\DefiningClassesII\MatrixGenerics\obj\Debug\MatrixGenerics.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\DefiningClassesII\DefiningClassesII\MatrixGenerics\obj\Debug\MatrixGenerics.pdb
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\DefiningClassesII\DefiningClassesII\MatrixGenerics\obj\Debug\MatrixGenerics.csprojResolveAssemblyReference.cache

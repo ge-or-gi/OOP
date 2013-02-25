@@ -41,7 +41,7 @@ namespace Generics
 
             int result = ItemList<int>.Max(myInts[3], myInts[2]);
 
-            string result2 = ItemList<string>.Max(myStrigs[1], myStrigs[3]);
+            string result2 = ItemList<string>.Max(myStrigs[1], myStrigs[2]);
             
 
             
