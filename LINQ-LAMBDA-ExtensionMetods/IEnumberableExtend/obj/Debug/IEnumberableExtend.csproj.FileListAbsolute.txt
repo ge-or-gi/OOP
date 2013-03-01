@@ -1,0 +1,6 @@
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\IEnumberableExtend\bin\Debug\IEnumberableExtend.exe.config
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\IEnumberableExtend\bin\Debug\IEnumberableExtend.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\IEnumberableExtend\bin\Debug\IEnumberableExtend.pdb
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\IEnumberableExtend\obj\Debug\IEnumberableExtend.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\IEnumberableExtend\obj\Debug\IEnumberableExtend.pdb
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\IEnumberableExtend\obj\Debug\IEnumberableExtend.csprojResolveAssemblyReference.cache

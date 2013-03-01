@@ -1,0 +1,6 @@
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\SubstringExtend\bin\Debug\SubstringExtend.exe.config
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\SubstringExtend\bin\Debug\SubstringExtend.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\SubstringExtend\bin\Debug\SubstringExtend.pdb
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\SubstringExtend\obj\Debug\SubstringExtend.csprojResolveAssemblyReference.cache
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\SubstringExtend\obj\Debug\SubstringExtend.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\SubstringExtend\obj\Debug\SubstringExtend.pdb
