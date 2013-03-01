@@ -1,0 +1,6 @@
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\LAMBDA-Expresions\bin\Debug\LAMBDA-Expresions.exe.config
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\LAMBDA-Expresions\bin\Debug\LAMBDA-Expresions.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\LAMBDA-Expresions\bin\Debug\LAMBDA-Expresions.pdb
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\LAMBDA-Expresions\obj\Debug\LAMBDA-Expresions.csprojResolveAssemblyReference.cache
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\LAMBDA-Expresions\obj\Debug\LAMBDA-Expresions.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\LAMBDA-Expresions\obj\Debug\LAMBDA-Expresions.pdb
