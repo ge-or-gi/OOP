@@ -1,0 +1,6 @@
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\LINQ-Metod\bin\Debug\LINQ-Metod.exe.config
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\LINQ-Metod\bin\Debug\LINQ-Metod.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\LINQ-Metod\bin\Debug\LINQ-Metod.pdb
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\LINQ-Metod\obj\Debug\LINQ-Metod.csprojResolveAssemblyReference.cache
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\LINQ-Metod\obj\Debug\LINQ-Metod.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\LINQ-Metod\obj\Debug\LINQ-Metod.pdb
