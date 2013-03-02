@@ -1,0 +1,6 @@
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\DivisableBy7and3\bin\Debug\DivisableBy7and3.exe.config
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\DivisableBy7and3\obj\Debug\DivisableBy7and3.csprojResolveAssemblyReference.cache
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\DivisableBy7and3\bin\Debug\DivisableBy7and3.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\DivisableBy7and3\bin\Debug\DivisableBy7and3.pdb
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\DivisableBy7and3\obj\Debug\DivisableBy7and3.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\DivisableBy7and3\obj\Debug\DivisableBy7and3.pdb

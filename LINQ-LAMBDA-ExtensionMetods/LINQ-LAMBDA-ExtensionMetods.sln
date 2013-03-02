@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ-Metod", "LINQ-Metod\LI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAMBDA-Expresions", "LAMBDA-Expresions\LAMBDA-Expresions.csproj", "{0D5A59B2-E174-4731-ACCD-124BF692C5D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisableBy7and3", "DivisableBy7and3\DivisableBy7and3.csproj", "{8013F688-55D6-4401-9F88-EEA559BEC9BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{0D5A59B2-E174-4731-ACCD-124BF692C5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D5A59B2-E174-4731-ACCD-124BF692C5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D5A59B2-E174-4731-ACCD-124BF692C5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8013F688-55D6-4401-9F88-EEA559BEC9BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8013F688-55D6-4401-9F88-EEA559BEC9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8013F688-55D6-4401-9F88-EEA559BEC9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8013F688-55D6-4401-9F88-EEA559BEC9BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
