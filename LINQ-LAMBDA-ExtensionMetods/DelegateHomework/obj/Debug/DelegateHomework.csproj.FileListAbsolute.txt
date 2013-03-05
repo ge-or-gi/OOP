@@ -1,0 +1,6 @@
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\DelegateHomework\bin\Debug\DelegateHomework.exe.config
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\DelegateHomework\bin\Debug\DelegateHomework.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\DelegateHomework\bin\Debug\DelegateHomework.pdb
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\DelegateHomework\obj\Debug\DelegateHomework.csprojResolveAssemblyReference.cache
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\DelegateHomework\obj\Debug\DelegateHomework.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\LINQ-LAMBDA-ExtensionMetods\DelegateHomework\obj\Debug\DelegateHomework.pdb
