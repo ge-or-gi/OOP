@@ -115,7 +115,7 @@ namespace MatrixGenerics
             return newMatrix;
 
         }
-
+        //умножение ни матрици
         public static Matrix<T> operator *(Matrix<T> mtrx1, Matrix<T> mtrx2)
         {
             if (mtrx1.Col != mtrx2.Row)
