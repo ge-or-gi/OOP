@@ -64,15 +64,16 @@ namespace BankSystem
         {
             if (mounts < 0)
             {
-                throw new ArgumentException("Mounts cant be less than zero");
+                throw new ArgumentException("Mounts cant be less than ZERO")
             }
             else
-            {
+	        {
                 int result = 0;
                 result = (mounts * (this.IntrestRate * this.Balance)) / 100;
 
                 Console.WriteLine(result);
             }
+            
             
         }
 

@@ -24,13 +24,15 @@ namespace BankSystem
             
             if (Customer is Individual)
             {
-                base.CalculateIntrestRate(mounts - noIntrestForIndividuals);
+                int chekForNegativeMounts = mounts - noIntrestForIndividuals >= 0 ? mounts - noIntrestForIndividuals : 0; // ajusting mounts
+
+                base.CalculateIntrestRate(chekForNegativeMounts);
             }
             else
             {
-                if (mounts <= 12)
+                if (mounts < 12)
                 {
-                    base.CalculateIntrestRate(mounts / 2); //if less then 12 mounts intrest reate is 1/2 => insted 12 mounts half intrest rate - it is 6 full mounts
+                    base.CalculateIntrestRate(mounts / 2); //if less then 12 mounts intrest reate is 1/2 => insted calc half for 12 mounts  - we do full for 6
                 }
                 else
                 {

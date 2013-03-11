@@ -31,9 +31,14 @@ namespace BankSystem
 
             moAcc.CalculateIntrestRate(4);
 
-            companyMoAcc.CalculateIntrestRate(13);
+            companyMoAcc.CalculateIntrestRate(2);
 
-            deAcc.WithdrawMoney(60);
+            deAcc.WithdrawMoney(50);
+
+            //loAcc.CalculateIntrestRate(2);
+            companyLoAcc.CalculateIntrestRate(1);
+
+              
 
 
 

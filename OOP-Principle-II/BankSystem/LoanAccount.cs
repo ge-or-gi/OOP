@@ -24,11 +24,15 @@ namespace BankSystem
 
             if (Customer is Individual)
             {
-                base.CalculateIntrestRate(mounts - noIntrestForIndividuals);
+                int chekForZeroMounthLengh = mounts - noIntrestForIndividuals > 0 ? mounts - noIntrestForCompanyes : 0; // ajusting mounts
+                
+                base.CalculateIntrestRate(chekForZeroMounthLengh);
             }
             else
             {
-                base.CalculateIntrestRate(mounts - noIntrestForCompanyes);
+                int chekForZeroMounthLengh = mounts - noIntrestForCompanyes > 0 ? mounts - noIntrestForCompanyes : 0; // ajusting mounts
+                
+                base.CalculateIntrestRate(chekForZeroMounthLengh);
             }
             
         }
