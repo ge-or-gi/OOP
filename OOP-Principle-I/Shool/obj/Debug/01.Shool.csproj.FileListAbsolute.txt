@@ -1,0 +1,3 @@
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-I\Shool\bin\Debug\Shool.exe.config
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-I\Shool\obj\Debug\Shool.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-I\Shool\obj\Debug\Shool.pdb

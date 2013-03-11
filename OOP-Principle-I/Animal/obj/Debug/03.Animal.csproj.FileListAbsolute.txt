@@ -1,0 +1,6 @@
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-I\Animal\bin\Debug\Animal.exe.config
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-I\Animal\bin\Debug\Animal.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-I\Animal\bin\Debug\Animal.pdb
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-I\Animal\obj\Debug\03.Animal.csprojResolveAssemblyReference.cache
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-I\Animal\obj\Debug\Animal.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-I\Animal\obj\Debug\Animal.pdb

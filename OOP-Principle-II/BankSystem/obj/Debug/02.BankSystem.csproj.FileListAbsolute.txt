@@ -1,0 +1,6 @@
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-II\BankSystem\bin\Debug\BankSystem.exe.config
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-II\BankSystem\bin\Debug\BankSystem.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-II\BankSystem\bin\Debug\BankSystem.pdb
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-II\BankSystem\obj\Debug\02.BankSystem.csprojResolveAssemblyReference.cache
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-II\BankSystem\obj\Debug\BankSystem.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-II\BankSystem\obj\Debug\BankSystem.pdb

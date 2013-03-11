@@ -1,0 +1,6 @@
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-II\AbstractClassShape\obj\Debug\01.AbstractClassShape.csprojResolveAssemblyReference.cache
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-II\AbstractClassShape\bin\Debug\AbstractClassShape.exe.config
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-II\AbstractClassShape\bin\Debug\AbstractClassShape.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-II\AbstractClassShape\bin\Debug\AbstractClassShape.pdb
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-II\AbstractClassShape\obj\Debug\AbstractClassShape.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-II\AbstractClassShape\obj\Debug\AbstractClassShape.pdb

@@ -1,0 +1,6 @@
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-I\AbstractClassHuman\bin\Debug\AbstractClassHuman.exe.config
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-I\AbstractClassHuman\obj\Debug\02.AbstractClassHuman.csprojResolveAssemblyReference.cache
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-I\AbstractClassHuman\bin\Debug\AbstractClassHuman.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-I\AbstractClassHuman\bin\Debug\AbstractClassHuman.pdb
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-I\AbstractClassHuman\obj\Debug\AbstractClassHuman.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-I\AbstractClassHuman\obj\Debug\AbstractClassHuman.pdb
