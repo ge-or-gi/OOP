@@ -64,7 +64,7 @@ namespace BankSystem
         {
             if (mounts < 0)
             {
-                throw new ArgumentException("Mounts cant be less than ZERO")
+                throw new ArgumentException("Mounts cant be less than ZERO");
             }
             else
 	        {
