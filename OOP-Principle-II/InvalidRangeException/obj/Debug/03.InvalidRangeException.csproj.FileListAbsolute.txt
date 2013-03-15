@@ -1,1 +1,6 @@
 C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-II\InvalidRangeException\bin\Debug\InvalidRangeException.exe.config
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-II\InvalidRangeException\bin\Debug\InvalidRangeException.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-II\InvalidRangeException\bin\Debug\InvalidRangeException.pdb
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-II\InvalidRangeException\obj\Debug\03.InvalidRangeException.csprojResolveAssemblyReference.cache
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-II\InvalidRangeException\obj\Debug\InvalidRangeException.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\OOP-Principle-II\InvalidRangeException\obj\Debug\InvalidRangeException.pdb
