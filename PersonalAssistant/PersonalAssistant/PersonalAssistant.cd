@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Трябва да се реши какви ще са класовете">
+    <Position X="8.062" Y="2.291" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Инфо за LINQ to XML &#xD;&#xA;четене от файл&#xD;&#xA;http://weblogs.asp.net/scottgu/archive/2007/08/07/using-linq-to-xml-and-how-to-build-a-custom-rss-feed-reader-with-it.aspx">
+    <Position X="9.969" Y="2.365" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="PersonalAssistant.Note">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAoAAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Note.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalAssistant.Person">
+    <Position X="3" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="PersonalAssistant.Person.sex">
+        <TypeIdentifier>
+          <NewMemberFileName>Person.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAIAEIABE=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalAssistant.Program">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalAssistant.Reminder">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reminder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalAssistant.ReminderWhitAlarm">
+    <Position X="0.5" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>ReminderWhitAlarm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalAssistant.Gift">
+    <Position X="3.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gift.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalAssistant.Contact">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAEAAAAIAAAQAAAEQAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Contact.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="PersonalAssistant.ISearchable">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISearchable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,6 @@
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\PersonalAssistant\PersonalAssistant\bin\Debug\PersonalAssistant.exe.config
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\PersonalAssistant\PersonalAssistant\bin\Debug\PersonalAssistant.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\PersonalAssistant\PersonalAssistant\bin\Debug\PersonalAssistant.pdb
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\PersonalAssistant\PersonalAssistant\obj\Debug\PersonalAssistant.csprojResolveAssemblyReference.cache
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\PersonalAssistant\PersonalAssistant\obj\Debug\PersonalAssistant.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\PersonalAssistant\PersonalAssistant\obj\Debug\PersonalAssistant.pdb

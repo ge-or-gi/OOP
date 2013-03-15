@@ -24,7 +24,7 @@ namespace AbstractClassHuman
         static void Main(string[] args)
         {
 
-            #region Students Init
+            #region Students Initilization 
             Student Pesho = new Student(3, "Pesho", "Peshev");
             Student Ivan = new Student(4, "Ivan", "Ivanov");
             Student Petyr = new Student(5, "Petyr", "Petrov");
@@ -51,16 +51,19 @@ namespace AbstractClassHuman
             StudentList.Add(Katya); 
             #endregion
 
+            Console.WriteLine("-----------------------------------");
             Console.WriteLine("Students List Order by Grade");
-            Console.WriteLine();
+            Console.WriteLine("-----------------------------------");
 
+            #region Display Students Ordered By Grades
             var OrderByStudentsByGrade = StudentList.OrderBy(x => x.Grade);
             foreach (var item in OrderByStudentsByGrade)
             {
                 Console.WriteLine("{0} {1} : {2}", item.FirstName.ToString(), item.LastName.ToString(), item.Grade.ToString());
-            }
+            } 
+            #endregion
 
-            #region Workers Init
+            #region Workers Initilization
             Worker wk1 = new Worker(234, 8, "wk1", "wk1");
             Worker wk2 = new Worker(123, 8, "wk2", "wk2");
             Worker wk3 = new Worker(200, 5, "wk3", "wk3");
@@ -87,16 +90,18 @@ namespace AbstractClassHuman
             WorkersList.Add(wk10); 
             #endregion
 
-            Console.WriteLine();
+            Console.WriteLine("-----------------------------------");
             Console.WriteLine("Workers List Oredr By Hour Salary");
-            Console.WriteLine();
+            Console.WriteLine("-----------------------------------");
 
-            var OrederByWorkerByHourSalary = WorkersList.OrderByDescending( x => x.MoneyPerHour());
+            #region Order Workers by Hourly Salary
+            var OrederByWorkerByHourSalary = WorkersList.OrderByDescending(x => x.MoneyPerHour()); //using method in the query for sorting x.MoneyPerHour
 
             foreach (var item in OrederByWorkerByHourSalary)
             {
                 Console.WriteLine("{0} {1} : {2}", item.FirstName, item.LastName, item.MoneyPerHour().ToString("0.00", CultureInfo.InvariantCulture));
-            }
+            } 
+            #endregion
 
             
             List<Human> HumansList = new List<Human>();
@@ -106,9 +111,9 @@ namespace AbstractClassHuman
 
             var OrderedHumansByName = HumansList.OrderBy(x => x.FirstName);
 
-            Console.WriteLine();
+            Console.WriteLine("-----------------------------------");
             Console.WriteLine("Ordered List of Humans");
-            Console.WriteLine();
+            Console.WriteLine("-----------------------------------");
 
             foreach (var item in OrderedHumansByName)
             {

@@ -38,6 +38,8 @@ namespace BankSystem
             //loAcc.CalculateIntrestRate(2);
             companyLoAcc.CalculateIntrestRate(1);
 
+            
+
               
 
 
