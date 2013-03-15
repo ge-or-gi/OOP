@@ -58,7 +58,7 @@ namespace Animal
 
             foreach (var animalGroup in GroupAnimalsByTypes)
             {
-                Console.WriteLine("{0}", animalGroup.Key);
+                Console.Write("{0} : ", animalGroup.Key);
 
                 var averageAge = animalGroup.Average(x => x.Age);
                 Console.WriteLine("Average Age : {0}", averageAge);
