@@ -1,0 +1,6 @@
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\CommonTypeSystem\PersonNullAge\bin\Debug\PersonNullAge.exe.config
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\CommonTypeSystem\PersonNullAge\bin\Debug\PersonNullAge.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\CommonTypeSystem\PersonNullAge\bin\Debug\PersonNullAge.pdb
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\CommonTypeSystem\PersonNullAge\obj\Debug\02.PersonNullAge.csprojResolveAssemblyReference.cache
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\CommonTypeSystem\PersonNullAge\obj\Debug\PersonNullAge.exe
+C:\Users\georgi\Desktop\Teleric-Cource\OOP\CommonTypeSystem\PersonNullAge\obj\Debug\PersonNullAge.pdb
